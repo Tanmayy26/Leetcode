@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Tanmayy26/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tanmayy26/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Tanmayy26/Leetcode/tree/master/0066-plus-one) |
+| [0704-binary-search](https://github.com/Tanmayy26/Leetcode/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/Tanmayy26/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
 |  |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/Tanmayy26/Leetcode/tree/master/0904-fruit-into-baskets) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Tanmayy26/Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
