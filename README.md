@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Tanmayy26/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Tanmayy26/Leetcode/tree/master/0069-sqrtx) |
 ## Sliding Window
 |  |
 | ------- |
@@ -31,5 +32,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Tanmayy26/Leetcode/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/Tanmayy26/Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
