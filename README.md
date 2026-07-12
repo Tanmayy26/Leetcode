@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Tanmayy26/Leetcode/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/Tanmayy26/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1929-concatenation-of-array](https://github.com/Tanmayy26/Leetcode/tree/master/1929-concatenation-of-array) |
+| [3838-weighted-word-mapping](https://github.com/Tanmayy26/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,4 +46,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Tanmayy26/Leetcode/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/Tanmayy26/Leetcode/tree/master/1929-concatenation-of-array) |
+| [3838-weighted-word-mapping](https://github.com/Tanmayy26/Leetcode/tree/master/3838-weighted-word-mapping) |
+## String
+|  |
+| ------- |
+| [3838-weighted-word-mapping](https://github.com/Tanmayy26/Leetcode/tree/master/3838-weighted-word-mapping) |
 <!---LeetCode Topics End-->
