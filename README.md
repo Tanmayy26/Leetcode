@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Tanmayy26/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tanmayy26/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Tanmayy26/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Tanmayy26/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Tanmayy26/Leetcode/tree/master/0066-plus-one) |
 | [0704-binary-search](https://github.com/Tanmayy26/Leetcode/tree/master/0704-binary-search) |
@@ -51,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3838-weighted-word-mapping](https://github.com/Tanmayy26/Leetcode/tree/master/3838-weighted-word-mapping) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Tanmayy26/Leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Tanmayy26/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
