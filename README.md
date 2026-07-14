@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Tanmayy26/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Tanmayy26/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Tanmayy26/Leetcode/tree/master/0066-plus-one) |
+| [0204-count-primes](https://github.com/Tanmayy26/Leetcode/tree/master/0204-count-primes) |
 | [0704-binary-search](https://github.com/Tanmayy26/Leetcode/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/Tanmayy26/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1929-concatenation-of-array](https://github.com/Tanmayy26/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Tanmayy26/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Tanmayy26/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Tanmayy26/Leetcode/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/Tanmayy26/Leetcode/tree/master/0204-count-primes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -88,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Tanmayy26/Leetcode/tree/master/0070-climbing-stairs) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Tanmayy26/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Tanmayy26/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
