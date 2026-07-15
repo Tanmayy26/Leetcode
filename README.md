@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Tanmayy26/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Tanmayy26/Leetcode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Tanmayy26/Leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Tanmayy26/Leetcode/tree/master/0258-add-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Tanmayy26/Leetcode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/Tanmayy26/Leetcode/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/Tanmayy26/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3838-weighted-word-mapping](https://github.com/Tanmayy26/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## String
@@ -98,4 +100,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Tanmayy26/Leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Tanmayy26/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
