@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Tanmayy26/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Tanmayy26/Leetcode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/Tanmayy26/Leetcode/tree/master/0204-count-primes) |
+| [0238-product-of-array-except-self](https://github.com/Tanmayy26/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/Tanmayy26/Leetcode/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/Tanmayy26/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Tanmayy26/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Tanmayy26/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Tanmayy26/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
