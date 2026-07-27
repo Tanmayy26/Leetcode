@@ -4,7 +4,6 @@ public:
         int n = nums.size();
 
         vector<int> ans(n);
-
         ans[0] = 1;
 
         for(int i=1; i<n; i++) {
