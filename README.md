@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Tanmayy26/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0641-design-circular-deque](https://github.com/Tanmayy26/Leetcode/tree/master/0641-design-circular-deque) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Tanmayy26/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
@@ -155,11 +156,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tanmayy26/Leetcode/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/Tanmayy26/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Tanmayy26/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Tanmayy26/Leetcode/tree/master/0445-add-two-numbers-ii) |
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Tanmayy26/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0641-design-circular-deque](https://github.com/Tanmayy26/Leetcode/tree/master/0641-design-circular-deque) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Tanmayy26/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
