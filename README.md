@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Tanmayy26/Leetcode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/Tanmayy26/Leetcode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Tanmayy26/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0641-design-circular-deque](https://github.com/Tanmayy26/Leetcode/tree/master/0641-design-circular-deque) |
 | [0704-binary-search](https://github.com/Tanmayy26/Leetcode/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/Tanmayy26/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Tanmayy26/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0641-design-circular-deque](https://github.com/Tanmayy26/Leetcode/tree/master/0641-design-circular-deque) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Tanmayy26/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Tanmayy26/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Tanmayy26/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Tanmayy26/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0641-design-circular-deque](https://github.com/Tanmayy26/Leetcode/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/Tanmayy26/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0641-design-circular-deque](https://github.com/Tanmayy26/Leetcode/tree/master/0641-design-circular-deque) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Tanmayy26/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
