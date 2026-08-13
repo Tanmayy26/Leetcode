@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Tanmayy26/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0641-design-circular-deque](https://github.com/Tanmayy26/Leetcode/tree/master/0641-design-circular-deque) |
 | [0704-binary-search](https://github.com/Tanmayy26/Leetcode/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/Tanmayy26/Leetcode/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/Tanmayy26/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Tanmayy26/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1929-concatenation-of-array](https://github.com/Tanmayy26/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Tanmayy26/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Tanmayy26/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Tanmayy26/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0739-daily-temperatures](https://github.com/Tanmayy26/Leetcode/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Tanmayy26/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Tanmayy26/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
